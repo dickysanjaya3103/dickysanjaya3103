@@ -11,10 +11,10 @@
 
 - 🎓 I'm an undergraduate Informatics student at Universitas Negeri Surabaya.
 - 🎂 21 years old and currently in my 3rd semester.
-- 🚀 I aspire to build a leading digital company that brings innovation and impact.
-- 💡 Passionate about tech, creativity, and turning ideas into solutions.
-- 🛠️ Currently combining academic learning with real-world practice to sharpen my skills and achieve long-term goals.
-
+- 🚀 I aspire to build a leading digital company that brings innovation and real-world impact.
+- 💡 Passionate about technology, creativity, and transforming ideas into solutions.
+- 🛠️ Currently combining academic learning with hands-on projects to sharpen my skills and achieve long-term goals.
+- 👥 I'm also the Squad Lead of [DiginesaOfficial](https://github.com/diginesaofficial).
 
 ---
 
