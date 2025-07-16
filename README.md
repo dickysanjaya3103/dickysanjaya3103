@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Dicky Sanjaya 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Welcome+to+my+profile👋🏻
-;I+'+m+mahasiswa+Universitas+Negeri+Surabaya;Squad+Lead+off+DiginesaOfficial" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Welcome+to+my+profile👋🏻;Saya+mahasiswa+Universitas+Negeri+Surabaya;Squad+Lead+of+DiginesaOfficial" />
 </p>
+
 
 ---
 
