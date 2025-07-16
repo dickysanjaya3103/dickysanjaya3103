@@ -1,7 +1,7 @@
-<h1 align="center">Hai there, I'm Dicky Sanjaya👋</h1>
+<h1 align="center">Hi there, I'm Dicky Sanjaya 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Welcome+to+my+GitHub!;I'm+a+developer+from+Indonesia.;I+love+coding+%F0%9F%92%BB;Coffee+and+Code+%E2%98%95" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Welcome+to+my+profile;Saya+mahasiswa+Universitas+Negeri+Surabaya;Squad+Lead+of+DiginesaOfficial" />
 </p>
 
 ---
