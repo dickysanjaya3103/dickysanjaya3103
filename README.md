@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Dicky 👋</h1>
+<h1 align="center">Hai there, I'm Dicky Sanjaya👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Welcome+to+my+GitHub!;I'm+a+developer+from+Indonesia.;I+love+coding+%F0%9F%92%BB;Coffee+and+Code+%E2%98%95" />
@@ -8,10 +8,12 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I'm currently working on self-learning and open-source projects.
-- 🌱 Learning: Java, Web Dev, UI/UX
-- 🎯 Goals: Build helpful tech for my community
-- 💬 Ask me about tech, design, or collaboration!
+- 🎓 I'm an undergraduate Informatics student at Universitas Negeri Surabaya.
+- 🎂 21 years old and currently in my 3rd semester.
+- 🚀 I aspire to build a leading digital company that brings innovation and impact.
+- 💡 Passionate about tech, creativity, and turning ideas into solutions.
+- 🛠️ Currently combining academic learning with real-world practice to sharpen my skills and achieve long-term goals.
+
 
 ---
 
